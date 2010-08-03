@@ -1,0 +1,11 @@
+/*
+Theme Name: alettieri
+Description: This is my Starter Theme!
+Version: 1.0
+Author: Antonio Lettieri
+Author URI: http://alettieri.com
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/layout.css";
